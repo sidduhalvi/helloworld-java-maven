@@ -23,7 +23,7 @@ For any questions - Please email me at DevOps@RajeshKumar.gxyz/
 <distributionManagement>
 	<repository>
 		<id>rajesh</id>
-		<name>Internal Releases</name>
+		<name>Internal Releases2</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
 	</repository>
  
